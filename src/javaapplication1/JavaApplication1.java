@@ -37,7 +37,7 @@ public class JavaApplication1 {
         }
     }
     public void frame(){
-        f.setSize(600,400);
+        f.setSize(650,450);
 	f.setDefaultCloseOperation(f.EXIT_ON_CLOSE);
 	f.setVisible(true);
 		
